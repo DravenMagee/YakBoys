@@ -24,8 +24,8 @@ header {
 
 .yaks {
     margin: 5px;
-    height: 100%;
-    max-width: 100%;
+    height: 300px;
+    max-width: auto;
 }
 
 .side-by-side {

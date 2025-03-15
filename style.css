@@ -59,6 +59,8 @@ h1 {
 
 .tab-list {
     list-style: none;
+    width: 100%;
+    max-width: 100%;
     margin: 0;
     padding: 0;
     display: flex;
@@ -72,6 +74,8 @@ h1 {
 .tab-list a {
     text-decoration: none;
     color: white;
+    width: 100%;
+    max-width: 100%;
     padding: 10px 20px;
     background-color: #333;
     border-radius: 5px;

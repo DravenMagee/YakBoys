@@ -18,8 +18,8 @@ header {
 
 .yaks {
     margin: 5px;
-    height: 400px;
-    max-width: auto;
+    height: 100%;
+    max-width: 100%;
 }
 
 .side-by-side {
@@ -27,6 +27,7 @@ header {
     width: 300px;
     display: inline-block;
     margin: 10px;
+    object-fit: cover;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
 }
 
